@@ -255,7 +255,7 @@ En este caso para ejecutar el programa se utiliza el siguiente comando:
 
 $ ./(nombre del codigo de c++)
 
-##### Ejemplo
+#### Ejemplo
 $ ./LucasJavier-SumaN
   
   
@@ -263,5 +263,6 @@ $ ./LucasJavier-SumaN
 
   
   
+ 
   
   
