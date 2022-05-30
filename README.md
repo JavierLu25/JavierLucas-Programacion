@@ -2,10 +2,10 @@
 ![programacion](https://user-images.githubusercontent.com/101118941/170892136-e3d8b04b-e97b-4dd0-953f-83639361d968.jpeg)
 # Datos del Creador 🧑‍💻​
 #### Creador:      
-Joseph Javier Lucas Angulo   
+Joseph Javier Lucas Angulo         
 #### Correo Electronico: 
 joseph.lucas.angulo@utelvt.edu.ec
-#### Actividad B1 video explicación:
+#### Actividad B1 video explicativo
 https://www.youtube.com/watch?v=f7VARsCfIgE&t=197s
 
 
