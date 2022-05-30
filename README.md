@@ -1,6 +1,7 @@
 # Programas en C++ de Javier Lucas 👨‍💻
 ![programacion](https://user-images.githubusercontent.com/101118941/170892136-e3d8b04b-e97b-4dd0-953f-83639361d968.jpeg)
 # Datos del Creador 🧑‍💻​
+#### Nombres del Creador
 Javier Lucas Angulo
 #### Correo Electronico: 
 joseph.lucas.angulo@utelvt.edu.ec
@@ -94,8 +95,6 @@ Este programa permite que podamos contar o obtener la suma total de las monedas 
 		}
     } while (LJ_d<LJ_n);
 #### |Salida|
-
-
 
 	cout<< " Nos da como resultado: " <<endl;
   
