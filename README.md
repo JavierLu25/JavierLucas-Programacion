@@ -9,7 +9,7 @@ joseph.lucas.angulo@utelvt.edu.ec
 https://www.youtube.com/watch?v=f7VARsCfIgE&t=197s
 
 
-# Programas ​🖥️​
+#  Programas  ​🖥️​
 ### 1. *Suma de varios numeros*
 ### 2. *Comparacion de dos numeros*
 ### 3. *Contador de Monedas*
