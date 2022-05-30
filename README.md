@@ -2,7 +2,7 @@
 ![programacion](https://user-images.githubusercontent.com/101118941/170892136-e3d8b04b-e97b-4dd0-953f-83639361d968.jpeg)
 # Datos del Creador 🧑‍💻​
 #### Nombres del Creador:
-Javier Lucas Angulo
+Joseph Javier Lucas Angulo
 #### Correo Electronico: 
 joseph.lucas.angulo@utelvt.edu.ec
 #### Actividad B1 video explicativo
@@ -239,7 +239,7 @@ Para poder clonar o descargar los programas en la aplicacion de termux utilizamo
 
 $ git clone (aqui se colocara el link o el codigo del repositorio) 
 
-##### Ejemplo 
+#### Ejemplo 
 $ git clone https://github.com/JavierLu25/JavierLucas-Programacion.git
 
 #### 2. Compilar el programa.
@@ -247,7 +247,7 @@ Para compilar un codigo de c++ en termux se utiliza el siguiente comando:
 
 $ g++ (nombre del codigo de c++ con terminacion en .cpp) -o (nombre del codigo sin la terminación .cpp)
 
-##### Ejemplo
+#### Ejemplo
 $ g++ LucasJavier-SumaN.cpp -o LucasJavier-SumaN
 
 #### 3. Ejecutar el programa.
@@ -258,10 +258,10 @@ $ ./(nombre del codigo de c++)
 #### Ejemplo
 $ ./LucasJavier-SumaN
   
-  
+ 
 ![la_importancia_de_dar_gracias](https://user-images.githubusercontent.com/101118941/171066707-627d6187-5e69-4709-9f65-1dc926e479a3.png)
 
-  
+ 
   
  
   
